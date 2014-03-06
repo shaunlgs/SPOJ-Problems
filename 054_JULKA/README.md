@@ -28,15 +28,15 @@ Problem code: JULKA<br>
 > 
 > **Example**
 > 
-> Input:
-> 10
-> 2
-> [and 9 test cases more]
+> Input:<br>
+> 10<br>
+> 2<br>
+> [and 9 test cases more]<br>
 > 
-> Output:
-> 6
-> 4
-> [and 9 test cases more]
+> Output:<br>
+> 6<br>
+> 4<br>
+> [and 9 test cases more]<br>
 
 **Explanation:**<br>
 For each test cases, there are two input lines, first line is the number of apples both Klaudia and Natalia has (x). The second line is the number of apples Klaudia has more than Natalia (y).
